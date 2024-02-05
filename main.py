@@ -1,1 +1,1 @@
-# training the deep vision model to retrieve data
+# training the deep vision model to retrieve data 
